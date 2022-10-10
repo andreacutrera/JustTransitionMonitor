@@ -1,0 +1,294 @@
+Region NUTS id,Region name,8_regional_gdp_ppp_per_capita,9_intramural_r&d_expenditure,8_long_term_unemployment,10_disposable_income_private_households
+UKI3,Inner London - West,628.67,1.55,72.8,44833.3
+DE21,Oberbayern,180.0,4.26,79.1,25866.7
+LU00,Luxembourg,272.0,1.26,66.1,25666.7
+UKI7,Outer London - West and North West,135.33,1.09,71.93,24300.0
+DE11,Stuttgart,162.33,6.51,77.37,23733.3
+DE60,Hamburg,206.33,2.17,75.1,23600.0
+UKI6,Outer London - South,97.33,0.49,75.7,23266.7
+DE14,Tübingen,135.0,4.55,77.97,23133.3
+AT34,Vorarlberg,143.0,1.74,75.53,22733.3
+DE13,Freiburg,120.67,2.64,78.03,22733.3
+UKJ2,"Surrey, East and West Sussex",115.33,1.47,75.93,22633.3
+DE71,Darmstadt,163.67,3.19,73.6,22500.0
+AT12,Niederösterreich,107.0,1.71,73.0,22400.0
+DE12,Karlsruhe,138.33,4.62,75.27,22366.7
+DE27,Schwaben,125.0,1.57,77.9,22366.7
+DE25,Mittelfranken,137.33,3.71,76.5,22300.0
+UKJ1,"Berkshire, Buckinghamshire and Oxfordshire",153.67,3.63,78.27,22233.3
+ITH1,Provincia Autonoma di Bolzano/Bozen,155.33,0.71,71.63,22200.0
+AT32,Salzburg,155.0,1.5,74.3,22100.0
+DE26,Unterfranken,125.67,2.27,76.67,21766.7
+AT11,Burgenland (AT),91.0,0.97,69.73,21733.3
+NO01,Oslo og Akershus,179.33,2.98,76.53,21700.0
+UKI4,Inner London - East,175.67,0.52,70.27,21666.7
+DEA4,Detmold,119.33,1.87,73.2,21633.3
+AT31,Oberösterreich,133.33,3.15,75.07,21600.0
+DEB3,Rheinhessen-Pfalz,120.0,3.45,73.33,21566.7
+DEF0,Schleswig-Holstein,102.0,1.49,74.33,21466.7
+DEB1,Koblenz,108.33,0.69,74.6,21433.3
+DE24,Oberfranken,116.0,1.97,76.77,21300.0
+AT33,Tirol,139.0,3.1,74.27,21200.0
+DE22,Niederbayern,123.0,1.25,78.03,21200.0
+AT22,Steiermark,117.33,5.05,70.97,21133.3
+UKM5,North Eastern Scotland,161.0,1.52,78.67,21100.0
+DEA2,Köln,134.67,2.83,71.27,21033.3
+DEA1,Düsseldorf,131.67,1.79,69.93,21000.0
+FR10,Île-de-France,178.5,0.0,66.33,21000.0
+AT13,Wien,158.67,3.61,64.73,20966.7
+DE23,Oberpfalz,130.67,1.99,77.03,20966.7
+UKH2,Bedfordshire and Hertfordshire,113.33,3.29,76.97,20933.3
+AT21,Kärnten,110.0,3.06,69.37,20933.3
+DE93,Lüneburg,89.33,0.94,75.8,20900.0
+DEB2,Trier,99.0,2.41,77.07,20766.7
+BE24,Prov. Vlaams-Brabant,130.33,4.22,67.57,20700.0
+DEA5,Arnsberg,109.67,1.66,69.97,20666.7
+DE91,Braunschweig,132.0,9.65,71.1,20633.3
+ITC4,Lombardia,129.67,1.28,65.4,20600.0
+DE72,Gießen,106.33,2.56,72.77,20466.7
+ITH5,Emilia-Romagna,119.67,1.82,67.13,20400.0
+DE92,Hannover,119.67,2.35,72.63,20366.7
+DE73,Kassel,115.33,1.58,74.3,20133.3
+DE50,Bremen,155.33,2.75,69.07,20100.0
+DEA3,Münster,105.67,1.13,71.5,20100.0
+SE11,Stockholm,177.67,3.8,77.97,20066.7
+NO04,Agder og Rogaland,136.67,1.22,74.93,19833.3
+DEC0,Saarland,115.67,1.61,70.93,19766.7
+ES21,País Vasco,118.33,1.96,63.27,19766.7
+DE94,Weser-Ems,111.33,0.92,74.13,19666.7
+NO05,Vestlandet,135.33,1.84,75.87,19633.3
+UKD6,Cheshire,130.0,3.69,75.0,19533.3
+FI20,Åland,135.67,0.29,81.8,19400.0
+BE23,Prov. Oost-Vlaanderen,110.67,2.5,68.07,19266.7
+ITH2,Provincia Autonoma di Trento,129.33,1.72,66.0,19233.3
+BE31,Prov. Brabant wallon,135.0,6.53,62.7,19200.0
+UKI5,Outer London - East and North East,79.0,0.31,70.53,19133.3
+UKJ3,Hampshire and Isle of Wight,112.33,2.17,76.43,19133.3
+ES30,Comunidad de Madrid,125.67,1.69,64.67,19066.7
+NO06,Trøndelag,122.0,4.8,75.47,19033.3
+UKG1,"Herefordshire, Worcestershire and Warwickshire",103.33,3.1,76.6,19000.0
+ITC3,Liguria,107.0,1.45,61.93,19000.0
+NO07,Nord-Norge,117.33,1.81,73.7,18966.7
+ITC1,Piemonte,102.67,2.18,63.5,18966.7
+DE30,Berlin,121.0,3.52,69.87,18933.3
+UKH3,Essex,87.33,1.64,74.53,18900.0
+BE25,Prov. West-Vlaanderen,117.0,1.09,68.2,18900.0
+FI1B,Helsinki-Uusimaa,147.33,3.58,72.97,18866.7
+ITH4,Friuli-Venezia Giulia,104.67,1.55,63.83,18866.7
+UKK1,"Gloucestershire, Wiltshire and Bristol/Bath area",114.67,2.24,77.27,18833.3
+NO03,Sør-Østlandet,101.67,1.6,71.8,18800.0
+UKE2,North Yorkshire,95.33,1.5,78.0,18766.7
+UKJ4,Kent,90.0,1.26,73.97,18733.3
+ITC2,Valle d'Aosta/Vallée d'Aoste,129.67,0.58,66.27,18700.0
+ES22,Comunidad Foral de Navarra,112.33,1.67,63.77,18633.3
+DE40,Brandenburg,89.67,1.68,75.57,18600.0
+DED4,Chemnitz,87.67,1.79,76.27,18600.0
+UKK2,Dorset and Somerset,86.33,0.84,76.03,18433.3
+NO02,Hedmark og Oppland,100.33,0.79,73.8,18433.3
+BE21,Prov. Antwerpen,142.67,3.07,64.27,18400.0
+NL32,Noord-Holland,170.33,1.69,75.9,18400.0
+DED2,Dresden,94.67,4.0,75.93,18366.7
+ITH3,Veneto,110.0,1.14,64.0,18366.7
+NL31,Utrecht,160.33,2.14,76.73,18350.0
+SK01,Bratislavský kraj,188.33,1.57,72.43,18166.7
+DEG0,Thüringen,90.67,2.06,75.17,18133.3
+FRK2,Rhône-Alpes,105.5,2.39,66.83,18100.0
+ITI1,Toscana,105.33,1.31,64.63,18100.0
+DED5,Leipzig,101.33,2.02,74.0,18066.7
+FRK1,Auvergne,85.0,2.24,65.63,18050.0
+DEE0,Sachsen-Anhalt,87.33,1.42,73.4,17900.0
+UKM7,Eastern Scotland,111.33,1.46,73.07,17833.3
+SE23,Västsverige,123.33,3.76,76.57,17800.0
+UKD1,Cumbria,95.67,1.1,75.67,17800.0
+FRB0,Centre-Val de Loire,87.5,0.76,63.6,17700.0
+FRC1,Bourgogne,87.0,1.41,63.77,17700.0
+UKH1,East Anglia,97.67,4.85,76.23,17666.7
+BE22,Prov. Limburg (BE),99.0,1.34,64.23,17600.0
+FRC2,Franche-Comté,80.0,1.43,65.6,17600.0
+FRL0,Provence-Alpes-Côte d’Azur,98.5,2.49,62.63,17600.0
+DE80,Mecklenburg-Vorpommern,85.0,1.85,71.77,17500.0
+FRI2,Limousin,80.0,1.6,68.03,17500.0
+ES51,Cataluña,109.0,1.48,63.5,17366.7
+FRD1,Basse-Normandie,84.0,1.63,64.87,17300.0
+FRD2,Haute-Normandie,91.5,1.27,62.33,17300.0
+SE22,Sydsverige,107.33,3.4,73.13,17266.7
+NL33,Zuid-Holland,131.67,2.08,72.03,17250.0
+ITI4,Lazio,114.33,1.62,59.23,17233.3
+FRI3,Poitou-Charentes,85.0,4.75,64.9,17200.0
+FRJ2,Midi-Pyrénées,97.5,2.77,65.7,17200.0
+NL41,Noord-Brabant,131.0,2.84,75.43,17200.0
+PL91,Warszawski stołeczny,151.0,2.07,73.7,17200.0
+FRI1,Aquitaine,92.5,0.93,65.13,17150.0
+UKM6,Highlands and Islands,100.67,0.5,76.9,17133.3
+ITI3,Marche,92.33,0.91,62.23,17133.3
+FRG0,Pays-de-la-Loire,95.0,1.23,67.63,17100.0
+FRH0,Bretagne,89.5,2.01,67.07,17050.0
+UKK4,Devon,82.33,1.06,74.53,16966.7
+NL34,Zeeland,104.33,0.54,76.4,16950.0
+SE12,Östra Mellansverige,108.33,3.9,73.63,16900.0
+FRE2,Picardie,79.5,0.91,61.13,16800.0
+ITI2,Umbria,86.0,0.96,62.27,16800.0
+UKF2,"Leicestershire, Rutland and Northamptonshire",96.33,1.19,74.2,16766.7
+SE21,Småland med öarna,107.67,1.51,76.57,16766.7
+SE33,Övre Norrland,115.0,2.65,75.33,16766.7
+NL22,Gelderland,109.67,2.16,74.5,16750.0
+RO32,Bucuresti - Ilfov,135.0,0.91,66.17,16700.0
+BE34,Prov. Luxembourg (BE),75.33,0.76,61.97,16633.3
+SE32,Mellersta Norrland,107.67,0.77,75.6,16633.3
+UKM9,Southern Scotland,66.33,0.0,73.17,16600.0
+SE31,Norra Mellansverige,101.33,1.32,73.1,16533.3
+NL13,Drenthe,91.67,0.84,73.3,16500.0
+NL42,Limburg (NL),113.0,1.79,71.37,16500.0
+UKG2,Shropshire and Staffordshire,81.0,0.69,74.63,16466.7
+FI1C,Etelä-Suomi,98.0,2.03,66.8,16400.0
+NL23,Flevoland,97.0,1.62,71.9,16400.0
+BE35,Prov. Namur,83.0,1.24,58.9,16366.7
+FRY2,Martinique,78.5,0.0,53.2,16300.0
+UKF3,Lincolnshire,77.67,0.4,73.53,16233.3
+DK01,Hovedstaden,165.67,4.75,73.9,16200.0
+ES24,Aragón,99.0,0.91,62.8,16200.0
+IE06,Eastern and Midland,178.67,0.0,65.47,16166.7
+BE10,Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest,212.0,1.84,54.6,16100.0
+NL21,Overijssel,107.67,1.78,74.6,16100.0
+CZ01,Praha,182.33,2.66,75.0,16066.7
+NL12,Friesland (NL),91.33,0.84,73.7,16050.0
+UKK3,Cornwall and Isles of Scilly,72.33,0.34,75.13,16033.3
+UKM8,West Central Scotland,95.0,0.0,69.93,16033.3
+FI19,Länsi-Suomi,99.33,2.82,68.2,16033.3
+FRY4,La Réunion,70.0,0.0,47.27,16000.0
+UKL2,East Wales,97.0,1.32,71.07,15966.7
+FRJ1,Languedoc-Roussillon,78.5,1.0,58.83,15950.0
+BE33,Prov. Liège,86.33,1.98,55.83,15933.3
+NL11,Groningen,137.67,2.24,68.97,15900.0
+UKF1,Derbyshire and Nottinghamshire,86.33,2.75,72.67,15766.7
+PT17,Área Metropolitana de Lisboa,103.67,1.57,65.53,15766.7
+FRM0,Corse,85.5,0.29,59.67,15700.0
+ES23,La Rioja,99.33,0.89,64.03,15666.7
+FI1D,Pohjois- ja Itä-Suomi,92.0,2.61,65.3,15533.3
+UKD4,Lancashire,87.0,0.95,71.23,15433.3
+BE32,Prov. Hainaut,77.0,1.62,53.47,15366.7
+ES12,Principado de Asturias,80.33,0.78,55.57,15366.7
+FRE1,Nord-Pas-de-Calais,85.5,0.99,57.3,15350.0
+UKD7,Merseyside,83.67,1.78,67.87,15333.3
+FRY1,Guadeloupe,73.0,0.0,48.07,15300.0
+UKC2,Northumberland and Tyne and Wear,85.67,1.17,69.87,15300.0
+DK02,Sjælland,87.67,1.11,70.93,15233.3
+UKD3,Greater Manchester,95.33,0.92,69.6,15200.0
+EL42,Notio Aigaio,77.67,0.2,56.7,15166.7
+UKE4,West Yorkshire,92.0,1.04,70.17,15166.7
+ITF1,Abruzzo,85.67,0.97,54.7,15033.3
+ES53,Illes Balears,98.33,0.32,64.43,14966.7
+UKE1,East Yorkshire and Northern Lincolnshire,83.0,0.77,70.87,14966.7
+DK04,Midtjylland,115.0,2.52,71.97,14933.3
+ES41,Castilla y León,85.0,1.04,59.83,14933.3
+UKN0,Northern Ireland (UK),85.0,0.0,67.5,14900.0
+DK03,Syddanmark,116.33,1.82,70.13,14800.0
+DK05,Nordjylland,108.0,1.57,70.6,14800.0
+ES13,Cantabria,83.67,0.85,59.3,14733.3
+UKC1,Tees Valley and Durham,75.0,0.91,67.5,14733.3
+IE05,Southern,189.67,1.2,64.17,14666.7
+CY00,Kypros,84.0,0.5,62.83,14633.3
+UKE3,South Yorkshire,75.67,1.18,69.03,14633.3
+UKL1,West Wales and The Valleys,69.67,0.83,69.47,14566.7
+LT01,Sostines regionas,110.67,1.39,71.93,14400.0
+UKG3,West Midlands,90.0,1.83,64.7,14066.7
+ITG2,Sardegna,71.33,0.81,49.67,14066.7
+ES11,Galicia,81.67,0.88,58.0,13933.3
+PT15,Algarve,80.67,0.37,66.33,13866.7
+ITF2,Molise,69.67,0.67,49.93,13433.3
+EL30,Attiki,96.0,1.09,51.27,13266.7
+ES52,Comunidad Valenciana,79.67,1.01,56.97,13266.7
+PL22,Śląskie,71.33,0.57,60.63,13266.7
+CZ02,Strední Cechy,80.33,1.98,72.13,13233.3
+PT20,Região Autónoma dos Açores (PT),70.0,0.33,59.23,13166.7
+EL62,Ionia Nisia,65.0,0.44,55.93,13133.3
+ES63,Ciudad Autónoma de Ceuta (ES),74.0,0.07,46.57,13000.0
+SI04,Zahodna Slovenija,99.33,2.59,66.67,13000.0
+IE04,Northern and Western,84.67,1.84,63.93,12833.3
+ITF4,Puglia,63.33,0.93,43.23,12733.3
+PT30,Região Autónoma da Madeira (PT),74.67,0.34,59.37,12566.7
+ES42,Castilla-la Mancha,71.0,0.55,53.6,12533.3
+ES70,Canarias (ES),75.33,0.48,51.5,12433.3
+ITF5,Basilicata,74.67,0.61,48.9,12433.3
+SI03,Vzhodna Slovenija,69.0,1.68,63.47,12366.7
+PT18,Alentejo,72.0,0.51,63.57,12333.3
+PL41,Wielkopolskie,74.33,0.66,65.2,12266.7
+PL51,Dolnośląskie,76.33,0.75,63.4,12233.3
+CZ06,Jihovýchod,82.0,2.67,70.57,12166.7
+ITG1,Sicilia,60.33,0.95,39.7,12100.0
+PT16,Centro (PT),67.67,1.28,66.57,12100.0
+CZ03,Jihozápad,77.67,1.5,71.6,11933.3
+ES62,Región de Murcia,76.0,0.89,54.87,11933.3
+LT02,Vidurio ir vakaru Lietuvos regionas,62.67,0.64,65.67,11933.3
+PL71,Łódzkie,64.33,0.62,65.23,11933.3
+ITF3,Campania,63.33,1.25,40.0,11866.7
+EL53,Dytiki Makedonia,66.67,0.45,46.13,11800.0
+CZ05,Severovýchod,72.33,1.34,70.37,11700.0
+ES61,Andalucía,67.67,0.99,48.4,11666.7
+ES64,Ciudad Autónoma de Melilla (ES),68.0,0.1,44.43,11633.3
+ITF6,Calabria,58.33,0.69,39.27,11633.3
+SK02,Západné Slovensko,70.33,0.68,65.07,11466.7
+SK03,Stredné Slovensko,61.0,0.84,61.57,11400.0
+ES43,Extremadura,64.67,0.65,49.67,11366.7
+PL42,Zachodniopomorskie,58.0,0.29,59.7,11366.7
+PL63,Pomorskie,66.33,1.1,63.37,11366.7
+EL41,Voreio Aigaio,54.33,0.77,51.6,11300.0
+PT11,Norte,65.33,1.35,61.6,11300.0
+CZ07,Strední Morava,72.0,1.32,68.9,11233.3
+BG41,Yugozapaden,78.0,1.36,67.6,11200.0
+PL21,Małopolskie,62.0,1.68,62.57,11166.7
+CZ08,Moravskoslezsko,73.0,1.18,66.83,11000.0
+EL52,Kentriki Makedonia,54.33,0.82,48.9,11000.0
+HU12,Pest,57.0,1.82,65.8,10966.7
+EL43,Kriti,59.67,1.49,52.57,10833.3
+CZ04,Severozápad,64.0,0.35,67.2,10733.3
+FRY3,Guyane,54.0,0.0,45.13,10700.0
+EL54,Ipeiros,50.0,1.16,49.13,10666.7
+EL65,Peloponnisos,58.0,0.4,55.27,10633.3
+EL61,Thessalia,54.0,0.63,49.47,10600.0
+PL43,Lubuskie,57.67,0.2,61.87,10566.7
+HU21,Közép-Dunántúl,64.33,0.96,66.87,10533.3
+HU22,Nyugat-Dunántúl,74.33,0.59,67.4,10533.3
+PL52,Opolskie,55.33,0.34,62.9,10500.0
+PL61,Kujawsko-pomorskie,56.33,0.38,60.87,10466.7
+PL92,Mazowiecki regionalny,58.67,0.31,63.2,10366.7
+PL72,Świętokrzyskie,49.67,0.31,60.83,10266.7
+PL62,Warmińsko-mazurskie,49.0,0.31,57.07,10166.7
+SK04,Východné Slovensko,53.33,0.61,57.7,10133.3
+EL64,Sterea Ellada,62.0,0.51,50.3,10100.0
+PL81,Lubelskie,47.67,0.88,61.6,10100.0
+HU11,Budapest,140.33,1.82,69.8,10000.0
+EL51,"Anatoliki Makedonia, Thraki",48.67,0.67,50.83,9966.67
+RO42,Vest,59.67,0.35,58.1,9866.67
+EL63,Dytiki Ellada,52.33,1.22,46.97,9733.33
+PL84,Podlaskie,49.0,0.44,63.87,9733.33
+HU33,Dél-Alföld,49.67,1.24,62.53,9666.67
+HU23,Dél-Dunántúl,46.0,0.46,60.33,9566.67
+HR03,Jadranska Hrvatska,58.33,0.35,55.07,9333.33
+HR04,Kontinentalna Hrvatska,61.0,1.06,56.2,9266.67
+LV00,Latvija,64.67,0.58,67.7,9266.67
+PL82,Podkarpackie,48.67,1.05,58.3,9266.67
+HU32,Észak-Alföld,44.0,1.03,59.4,9166.67
+HU31,Észak-Magyarország,45.33,0.53,58.83,9066.67
+RO12,Centru,54.0,0.32,56.63,8366.67
+RO11,Nord-Vest,51.0,0.31,63.73,8200.0
+RO22,Sud-Est,49.33,0.07,56.13,7266.67
+BG33,Severoiztochen,40.0,0.41,61.93,6900.0
+RO31,Sud - Muntenia,46.67,0.36,60.03,6900.0
+BG42,Yuzhen tsentralen,33.33,0.43,61.67,6700.0
+RO41,Sud-Vest Oltenia,41.33,0.17,58.0,6700.0
+BG34,Yugoiztochen,41.33,0.29,60.3,6633.33
+BG32,Severen tsentralen,33.67,0.37,59.77,6533.33
+RO21,Nord-Est,35.33,0.32,68.57,6200.0
+BG31,Severozapaden,29.67,0.41,55.3,5933.33
+FRY5,Mayotte,32.5,0.0,35.0,5750.0
+IS00,Ísland,0.0,2.09,84.73,0.0
+LI00,Liechtenstein,0.0,0.0,0.0,0.0
+CH01,Région lémanique,0.0,0.0,72.8,0.0
+CH02,Espace Mittelland,0.0,0.0,80.77,0.0
+CH03,Nordwestschweiz,0.0,0.0,79.1,0.0
+CH04,Zürich,0.0,0.0,81.7,0.0
+CH05,Ostschweiz,0.0,0.0,81.67,0.0
+CH06,Zentralschweiz,0.0,0.0,83.57,0.0
+EE00,Eesti,77.67,1.38,71.2,0.0
+MT00,Malta,93.67,0.67,65.4,0.0
