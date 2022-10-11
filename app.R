@@ -152,6 +152,10 @@ ui <- navbarPage(
         br(),
         radioButtons("method_multi", label = h5("Select aggregation method"), choices = list("PCA" = "pca", "Weighted-Sum" = "ws"), selected = "pca"),
         conditionalPanel(
+          condition = "input.method_multi == 'ws'",
+          selectInput("variable_multi", label = h5("Selected Dimension to set weights differently"), choices = list("Environment" = "environment", "Society" = "society", "Economy" = "economy"), selected = "environment")
+        ),
+        conditionalPanel(
           condition = "input.method_multi == 'ws' && input.variable_multi == 'environment'",
           selectInput("p_env_multi", h6("Compensation parameter"), choices = list("p = 1" = 1, "p = 3" = 2), selected = 1),
           textOutput("weights_environment_multi"),
@@ -388,7 +392,20 @@ server <- function(input, output) {
         by=c("Region.NUTS.id", "Region.name", "country"))
     })
   
-  composite_indicators_country_multi <- reactive(
+  composite_indicators_data <- reactive(
+    if (input$method == 'ws' & input$granularity == 'Country') {
+      composite_indicators()%>% 
+        group_by(country)%>%
+        summarise(composite_environment = mean(composite_environment),
+                  composite_society = mean(composite_society),
+                  composite_economy = mean(composite_economy),
+                  group = "Means")
+    }
+    else if (input$method == 'ws' & input$granularity == 'Region') {
+      composite_indicators()
+    })
+  
+  composite_indicators_data_multi <- reactive(
   if (input$method_multi == 'ws' & input$granularity_multi == 'Country') {
     composite_indicators_multi()%>% 
       group_by(country)%>%
@@ -404,7 +421,7 @@ server <- function(input, output) {
   
   data_boxplot_composite <- reactive(
     if (input$granularity == 'Region') {
-      data_to_boxplot(composite_indicators(),
+      data_to_boxplot(composite_indicators_data(),
                       eval(as.symbol(paste0("composite_",input$variable))),
                       country,
                       group_var     = country,
@@ -412,12 +429,12 @@ server <- function(input, output) {
                       pointWidth=14)
     }
     else {
-      data_to_boxplot(composite_indicators_country(),
+      data_to_boxplot(composite_indicators_data(),
                       eval(as.symbol(paste0("composite_",input$variable))),
                       group_var = group,
                       add_outliers  = FALSE, 
                       pointWidth=14)
-    })
+  })
   
   data_scatter <- reactive(
     if (input$method_multi == "pca" & input$granularity_multi == "Region") {
@@ -426,11 +443,8 @@ server <- function(input, output) {
     else if (input$method_multi == "pca" & input$granularity_multi == "Country") {
       pca_country
     }
-    else if (input$method_multi == "ws" & input$granularity_multi == "Region") {
-      eval(composite_indicators_multi())
-    }
-    else if (input$method_multi == "ws" & input$granularity_multi == "Country") {
-      eval(composite_indicators_country_multi())
+    else if (input$method_multi == "ws") {
+      eval(composite_indicators_data_multi())
     }
   )
   
